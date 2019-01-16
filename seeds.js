@@ -3,7 +3,7 @@ var Post = require("./models/post");
 var Comment = require("./models/comment");
 
 //GIt testing remove it...
-var amit=5;
+var amitKUMAR=5;
 //////
 var data = [
   {
